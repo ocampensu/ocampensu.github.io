@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ocampensu.github.io/ocampensu.ocampensu
+Sitemap: https://ocampensu.github.io/app/ocampensu.ocampensu
+Sitemap: https://ocampensu.github.io/assets/ocampensu.ocampensu
+Sitemap: https://ocampensu.github.io/css/ocampensu.ocampensu
+Sitemap: https://ocampensu.github.io/includes/ocampensu.ocampensu
+Sitemap: https://ocampensu.github.io/item/ocampensu.ocampensu
+Sitemap: https://ocampensu.github.io/src/ocampensu.ocampensu
